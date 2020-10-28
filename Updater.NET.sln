@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{530B5F0D-8064-4119-BF32-2ACF8667DCF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater.WPFNETFramework472", "Updater.WPFNETFramework472\Updater.WPFNETFramework472.csproj", "{24A488B2-A80B-48A8-8D45-18321EF4A5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A488B2-A80B-48A8-8D45-18321EF4A5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A488B2-A80B-48A8-8D45-18321EF4A5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A488B2-A80B-48A8-8D45-18321EF4A5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A488B2-A80B-48A8-8D45-18321EF4A5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{24A488B2-A80B-48A8-8D45-18321EF4A5F1} = {530B5F0D-8064-4119-BF32-2ACF8667DCF8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD59160-9AD3-4372-A115-3158BD44DF55}
+	EndGlobalSection
+EndGlobal
